@@ -1,5 +1,3 @@
-package Nusput.Praktikum_2;
-
 import java.lang.Exception;
 
 public class MyException extends Exception{
